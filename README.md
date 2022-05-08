@@ -1,3 +1,3 @@
 # Test
 
-Test of GIT.
+Test of GIT!
